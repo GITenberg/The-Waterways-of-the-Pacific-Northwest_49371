@@ -1,10 +1,16 @@
 _repo: The-Waterways-of-the-Pacific-Northwest_49371
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49371-h/images/cover.jpg
 creator:
   author:
     agent_name: Bagley, Clarence
     gutenberg_agent_id: '45296'
     url: http://www.gutenberg.org/2009/agents/45296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49371#The-Waterways-of-the-Pacific-Northwest
 gutenberg_issued: '2015-07-06'
 gutenberg_type: Text
 identifiers:
